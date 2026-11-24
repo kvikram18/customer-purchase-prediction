@@ -1,6 +1,6 @@
 # Customer Purchase Prediction
 
-A beginner-friendly end-to-end data science and machine learning project that predicts whether a customer is likely to purchase based on customer and website-engagement attributes.
+An end-to-end data science and machine learning project that predicts whether a customer is likely to purchase based on customer and website-engagement attributes.
 
 ## Project objective
 Businesses can use customer behavior data to understand purchase patterns and prioritize marketing efforts. This project compares Logistic Regression and Random Forest classifiers and evaluates them on a held-out test set.
@@ -107,6 +107,3 @@ customer-purchase-prediction/
 - Add cross-validation and hyperparameter tuning.
 - Compare additional models and calibrate probabilities.
 - Build a Streamlit dashboard for interactive predictions.
-
-## Author
-Add your name and academic/course details here before submission.
